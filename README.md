@@ -5,5 +5,4 @@ You can edited at this line following:
 
             if (pathinfo($filename, PATHINFO_EXTENSION) === 'zip' || pathinfo($filename, PATHINFO_EXTENSION) === 'gz') {
 --------------
---------------
 All files and scripts under licenses ( GNU GPL v2 or later).
