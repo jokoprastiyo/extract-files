@@ -238,6 +238,6 @@ else {
     <br/>
         Processing time: <?php echo $time; ?> ms
     </div>
-    <div class="copyright">&copy;generasite</div>
+    <div class="copyright">&copy;<a href="https://generasite.tk/">generasite</a></div>
 </body>
 </html>
